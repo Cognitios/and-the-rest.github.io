@@ -3,8 +3,27 @@
 <head>
 	<title>#etc</title>
 	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<script type="text/javascript">
+		function makeurl(count) {
+			var num = Math.floor(Math.random() * count) + 1;
+			var url = "http://beedog.github.io/image" + num + ".png"
+			document.getElementById("beedog").src = url;
+		}
+
+		function beedog() {
+			var req = new XMLHttpRequest();
+			req.onreadystatechange = function() {
+				if (req.readyState == 4 && req.status == 200) {
+					makeurl(req.responseText);
+				}
+			}
+
+			req.open("GET", "http://beedog.github.io/count", true);
+			req.send(null);
+		}
+	</script>
 </head>
-<body>
+<body onload="beedog();">
 	<h1>#etc</h1>
 	<p>
 		#etc is a bunch of <a href="people/">people</a>.
@@ -12,5 +31,7 @@
 	<p>
 		#etc works on <a href="https://github.com/and-the-rest">works on projects</a>.
 	</p>
+
+	<img id="beedog" src="">
 </body>
 </html>
