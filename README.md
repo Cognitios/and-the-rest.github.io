@@ -3,17 +3,17 @@
 This readme is meant to be read by you.
 
 The problem is that you are probably one of #etc's finest: forged out of the
-fires of loyalty to our ~god-king~ good friend, yossarian. And because of this,
-you already know all of the information that is forthcoming.
+fires of loyalty to our ~~god-king~~ good friend, yossarian. And because of
+this, you already know all of the information that is forthcoming.
 
 [Who is the yossman](https://u.teknik.io/rZxH7X.jpg)?
 This, enigmatic figure that we all swear allegiance to?
-He is ~a philosopher,~ a programmer, and a lover of club-mates. He is the
+He is ~~a philosopher,~~ a programmer, and a lover of club-mates. He is the
 founder of #etc.
 
 But that doesnt answer the question. Yossman, or yossarian (no more missions!)
 has created this irc channel on rizon.net to talk about all sorts of things.
-We ~declared independence~ branched from #/g/technology sometime in the summer
+We ~~declared independence~~ branched from #/g/technology sometime in the summer
 as #/g/etc. We then morphed into #etc when our focus became more etc than /g/
 (/g/ can be found on 4chan. I don't recommend it).
 
