@@ -6,7 +6,7 @@ The problem is that you are probably one of #etc's finest: forged out of the
 fires of loyalty to our ~~god-king~~ good friend, yossarian. And because of
 this, you already know all of the information that is forthcoming.
 
-[Who is the yossman](https://u.teknik.io/rZxH7X.jpg)?
+[Who is the yossman](http://rectilinear.xyz/i/m31c9.png)?
 This, enigmatic figure that we all swear allegiance to?
 He is ~~a philosopher,~~ a programmer, and a lover of club-mates. He is the
 founder of #etc.
@@ -25,3 +25,5 @@ channel.
 In conclusion, etc is far more than a mere social body.
 We are programmers, philosophers, anime girls, shitposters, linux users,
 Windows haters, sportsballers, masters, aviators, and the rest...
+
+(nobody cares)
