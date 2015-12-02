@@ -27,3 +27,9 @@ We are programmers, philosophers, anime girls, shitposters, linux users,
 Windows haters, sportsballers, masters, aviators, and the rest...
 
 (nobody cares)
+
+### reviews
+
+*"why am i in the readme"*
+
+\- yossarian
