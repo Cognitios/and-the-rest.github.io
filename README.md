@@ -30,6 +30,5 @@ Windows haters, sportsballers, masters, aviators, and the rest...
 
 ### reviews
 
-*"why am i in the readme"*
+*&lt;yossarian&gt; why am i in the readme*
 
-\- yossarian
